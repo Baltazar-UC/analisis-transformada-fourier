@@ -24,3 +24,9 @@ Para ejecutar el código localmente, se requiere Python 3.x y las siguientes lib
 
 ```bash
 pip install numpy matplotlib scipy
+```
+---
+## Ejecución
+```bash
+python fourier_analysis.py
+```
